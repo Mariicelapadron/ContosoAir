@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/mph218/PracticaCurso/_apis/build/status/Mariicelapadron.ContosoAir?branchName=master)](https://dev.azure.com/mph218/PracticaCurso/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
